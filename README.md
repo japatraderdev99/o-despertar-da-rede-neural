@@ -38,13 +38,6 @@ O projeto foi desenvolvido no contexto da **FarmTech Solutions**, empresa fictí
 
 ---
 
-## 🎬 Demonstração
-
-> 🎥 **[Clique aqui para assistir ao vídeo de demonstração no YouTube](https://youtu.be/LINK_DO_VIDEO)**  
-> *(Vídeo de até 5 minutos demonstrando o funcionamento do sistema — não listado)*
-
----
-
 ## 📁 Estrutura do Repositório
 
 ```
